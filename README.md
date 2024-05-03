@@ -14,6 +14,5 @@ To add this repo as a custom component in home assistant:
  - Custom repositories
  - repository: https://github.com/snap2phil/home-assistant-tuya-custom/
  - Category: Integration
-
-
-Then you'll need to install it and reboot home assistant
+ - install it
+ - reboot home assistant
