@@ -8,15 +8,12 @@ This adds water irrigation valves named ‘GGQ’ (Diivoo dual zone irrigation k
 
 To add this repo as a custom component in home assistant:
 
-Go to HACS
-Integrations
-3 Dots on top right corner
-Custom repositories
-repository: https://github.com/snap2phil/home-assistant-tuya-custom/
-Category: Integration
+ - Go to HACS
+ - Integrations
+ - 3 Dots on top right corner
+ - Custom repositories
+ - repository: https://github.com/snap2phil/home-assistant-tuya-custom/
+ - Category: Integration
 
 
 Then you'll need to install it and reboot home assistant
-
-Hope that helps somebody as I struggled for years adding my irrigation natively to home assistant.
-
